@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:label="Gemini Demo"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GeminiDemo"
+        tools:replace="android:label,android:theme">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Library ki MainActivity register karo -->
+        <activity
+            android:name="com.example.chatwithgiminibypass.MainActivity"
+            android:exported="false"
+            tools:replace="android:exported" />
+
+    </application>
+</manifest>

@@ -1,0 +1,4 @@
+com.example.geminidemo.test.app-androidTest-0 C:\Users\Awais\Downloads\GeminiDemo\GeminiDemo\app\build\generated\res\resValues\androidTest\debug
+com.example.geminidemo.test.app-mergeDebugAndroidTestResources-1 C:\Users\Awais\Downloads\GeminiDemo\GeminiDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.geminidemo.test.app-mergeDebugAndroidTestResources-2 C:\Users\Awais\Downloads\GeminiDemo\GeminiDemo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.geminidemo.test.app-debugAndroidTest-3 C:\Users\Awais\Downloads\GeminiDemo\GeminiDemo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

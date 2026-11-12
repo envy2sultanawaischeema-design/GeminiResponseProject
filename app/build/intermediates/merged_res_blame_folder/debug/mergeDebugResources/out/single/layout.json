@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.geminidemo.app-mergeDebugResources-35:/layout/activity_demo_main.xml",
+        "source": "com.example.geminidemo.app-main-38:/layout/activity_demo_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Awais\\.gradle\\daemon\\9.3.0\\com.example.geminidemo.app-mergeDebugResources-35:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Awais\\.gradle\\daemon\\9.3.0\\com.example.geminidemo.app-main-38:\\layout\\activity_main.xml"
+    }
+]

@@ -1,0 +1,13 @@
+R_DEF: Internal format may change without notice
+local
+id btnGetResult
+id btnOpenOnly
+id cardResponse
+id main
+id tvHint1
+id tvHint2
+id tvResponse
+id tvTitle
+layout activity_demo_main
+string app_name
+style Theme.GeminiDemo
